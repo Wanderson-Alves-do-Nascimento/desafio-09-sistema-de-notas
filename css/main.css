@@ -24,7 +24,7 @@ h1 {
 }
 p {
   font-size: 2rem;
-  width: 100%;
+  text-align: center;
 }
 button {
   all: unset;
